@@ -3,7 +3,7 @@
 <html>
 <body>
 
-<h1> <i> Welcome to my profile. </i> 👋 </h1>
+<h1> <i> Howdy! </i> 👋 </h1>
 <hr>
 <ul> <h2> <b> About me: 💬 </b> </h2>
 <li> Currently a <ins> student.</ins> 📖 </li>
