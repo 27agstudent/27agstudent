@@ -1,16 +1,14 @@
-## Hi there 👋
+<!DOCTYPE html>
 
-<!--
-**27agstudent/27agstudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<html>
+<body>
 
-Here are some ideas to get you started:
+<h1> Good to see you! 👋 </h1>
+<hr>
+<ul> <h2> <b> About me: 💬 </b> </h2>
+<li> Currently a <ins> student. 📖 </ins> </li>
+<li> <big> Learning: </big> Python, HTML, CSS & Javascript. ⌨ </li>
+<li> Developing a <mark> portfolio website! <mark> 🖥 </li>
+<br>
+</html>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
